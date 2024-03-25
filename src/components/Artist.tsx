@@ -1,4 +1,4 @@
-import { Kakashi, Obito, Sasuke, Itachi, ArtistArrow } from "../constants";
+import {ArtistArrow } from "../constants";
 
 export default function Artist() {
   return (
